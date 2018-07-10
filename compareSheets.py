@@ -36,6 +36,7 @@ def remove_duplicates(subID):
 
 
 DME_df = remove_duplicates(DME_df['Sub Id'])
+DME_df = DME_df[DME_df['Sub Id'] != 'duplicate']
 
 DME_df.to_csv('DME List with Domains Removed Duplicates.csv', index = False)
 
