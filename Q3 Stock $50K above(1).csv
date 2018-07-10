@@ -1,0 +1,154 @@
+Sub Standardize ID,Sub Name,Sub Country,Sub State,Parent Standardized ID,Parent Name,tap_industry, 3 Year Stock Spend ,Propoensity to Buy, Estimated Avg. Stock , Est. Low Spend , Est. High Spend , Sales Estimated ASV ,Country,Named,DME Rep,NA Stock ARR,How Many Past Opps,Most Recent Opp
+272274,Twenty-First Century Fox,US,NY,266115,21st Century Fox,Media & Entertainment," $698,400.00 ",*****," $251,188.41 "," $121,360.09 "," $521,070.81 ",,US,Named,Zach Fisher,$0,0,GREEN
+24485,Charter Communications,US,MO,24485,Charter Communications,Telecommunications," $542,231.00 ",*****," $192,950.45 "," $82,896.04 "," $459,483.63 ",,US,Named,Zach Fisher,"$170,739",9,DR2162214
+1458,Disney Worldwide Services,US,CA,21401,Disney,Media & Entertainment, $-   ,****," $198,339.06 "," $100,344.86 "," $392,850.28 ",,US,Named,Zach Fisher,$0,0,GREEN
+268608,Tumblr,US,NY,13565,Verizon,Media & Entertainment, $-   ,***," $128,363.06 "," $43,480.54 "," $390,523.13 ",,US,Named,Zach Fisher,$0,0,GREEN
+16008,America Online (AOL),IN,KA,13565,Verizon,Telecommunications, $-   ,*****," $168,448.19 "," $82,362.86 "," $353,543.06 ",,US,Named,Zach Fisher,$0,0,GREEN
+13957,Yahoo!,US,GA,13565,Verizon,Media & Entertainment, $-   ,*****," $140,306.11 "," $66,950.63 "," $297,389.34 ",,US,Named,Zach Fisher,$0,0,GREEN
+7149,Time Incorporated,US,NW,7149,Time Incorporated,Media & Entertainment, $-   ,*****," $134,056.36 "," $64,578.30 "," $284,909.47 ",,US,Named,Zach Fisher,$0,0,GREEN
+2262,Fox News,AU,VIC,266115,21st Century Fox,Media & Entertainment, $-   ,***," $113,002.69 "," $48,251.16 "," $270,303.41 ",,US,Named,Zach Fisher,$0,0,GREEN
+13565,Verizon,US,FL,13565,Verizon,Telecommunications, $-   ,*****," $132,574.81 "," $67,897.61 "," $264,082.88 ",,US,Named,Zach Fisher,"$50,925",6,DR2110465
+23825,Verizon Sourcing,US,NJ,13565,Verizon,Telecommunications," $152,775.00 ",*****," $129,431.41 "," $67,594.45 "," $249,142.70 ",,US,Named,Zach Fisher,$0,0,GREEN
+17935,Time Warner Cable (TWC),US,VA,24485,Charter Communications,Media & Entertainment, $-   ,*****," $118,290.83 "," $59,143.57 "," $242,674.09 ",,US,Named,Zach Fisher,$0,0,GREEN
+8917,ESPN,US,NY,21401,Disney,Media & Entertainment, $-   ,*," $109,176.03 "," $50,773.23 "," $240,289.81 ",,US,Named,Zach Fisher,$0,0,GREEN
+3182,Lands' End,GB,LEICESTERSHIRE,3182,Lands' End,Retail, $-   ,****," $108,621.20 "," $56,264.61 "," $211,594.50 ",,US,Named,Bill Partridge,$0,1,DR1992470
+24978,Nexstar,US,CO,24978,Nexstar,Advertising," $215,700.00 ",*****," $105,970.86 "," $54,556.73 "," $207,216.45 ",,US,Named,Zach Fisher,"$71,900",2,DR2053182
+13695,Electronic Arts (EA),US,TX,13695,Electronic Arts (EA),Media & Entertainment, $-   ,*****," $109,332.23 "," $58,730.85 "," $204,640.23 ",,US,Named,Zach Fisher,$0,1,DR2027467
+21678,Blizzard Entertainment,FR,IDF,13092,Activision Blizzard,Media & Entertainment, $-   ,****," $83,499.49 "," $38,838.72 "," $182,569.20 ",,US,Named,Zach Fisher,$0,0,GREEN
+21404,Cox Communications,US,GA,9135,Cox Enterprises,Media & Entertainment, $-   ,*," $72,587.09 "," $30,367.84 "," $180,256.41 ",,US,Named,Grant Hamlen,$0,0,GREEN
+10594,Walgreen,US,IL,10594,Walgreen,Retail, $-   ,*****," $96,130.78 "," $52,788.94 "," $176,045.42 ",,US,Named,Bill Partridge,$0,0,GREEN
+733,Hotels.com,US,TX,8797,Expedia,"Travel, Leisure & Hospitality", $-   ,*," $78,498.32 "," $36,718.74 "," $170,594.59 ",,US,Named,PH USER AMERICAS 91700521,$0,0,GREEN
+21305,Macys.com,HK,Hong Kong,23124,Macy's,Retail, $-   ,*," $75,888.27 "," $36,996.04 "," $159,067.73 ",,US,Named,Bill Partridge,$0,0,GREEN
+1772,Disney Connected and Advanced Technologies (DCAT),US,CA,21401,Disney,Technology Software & Services, $-   ,*," $69,096.99 "," $30,472.96 "," $158,926.61 ",,US,Named,Zach Fisher,$0,0,GREEN
+16467,Insight Communications,US,OH,24485,Charter Communications,Telecommunications, $-   ,*," $59,048.56 "," $22,446.48 "," $157,708.17 ",,US,Named,Zach Fisher,$0,0,GREEN
+266074,Fitbit,US,CA,266074,Fitbit,Technology Hardware, $-   ,*," $65,677.05 "," $28,168.01 "," $155,459.45 ",,US,Named,Jenny Dedo,$0,0,GREEN
+4823,Cellco,US,IN,13565,Verizon,Telecommunications, $-   ,***," $82,970.33 "," $44,726.06 "," $154,829.47 ",,US,Named,Zach Fisher,$0,0,GREEN
+10863,Wall Street Journal,US,NY,2740,News Corporation,Media & Entertainment, $-   ,*," $70,572.98 "," $33,248.80 "," $152,633.98 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+3202,USA Today,US,VA,267189,TEGNA,Media & Entertainment, $-   ,*," $62,211.79 "," $26,624.31 "," $148,215.19 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+271958,Sling Media,US,CA,1047,EchoStar,Media & Entertainment, $-   ,*," $56,891.47 "," $23,480.76 "," $140,784.33 ",,US,Named,Keith Trudeau,$0,0,GREEN
+268009,Backflip Studios,US,CO,2080,Hasbro,Retail, $-   ,*," $60,628.55 "," $27,016.96 "," $137,894.75 ",,US,Named,Steven Colon,$0,0,GREEN
+3767,Progressive Casualty Insurance,US,OH,9438,Progressive,Insurance, $-   ,*," $59,606.68 "," $27,401.91 "," $131,858.14 ",,US,Named,Bill Partridge,$0,0,GREEN
+17230,McClatchy,US,NC,17230,McClatchy,Media & Entertainment, $-   ,*****," $65,101.45 "," $34,211.43 "," $125,648.70 ",,US,Named,Zach Fisher,$0,0,GREEN
+272239,Bronto Software,US,NC,6407,Oracle,Technology Software & Services, $-   ,*," $52,340.70 "," $22,761.12 "," $121,991.89 ",,US,Named,Jenny Dedo,$0,0,GREEN
+21943,Allrecipes.com,US,WA,3271,Meredith Corporation,Media & Entertainment, $-   ,*," $56,930.67 "," $27,358.06 "," $120,920.93 ",,US,Named,Keith Trudeau,$0,0,GREEN
+15567,Synchrony Financial,IN,TG,15567,Synchrony Financial,Financial Services, $-   ,*," $50,682.40 "," $22,222.97 "," $118,275.53 ",,US,Named,Julie Straus Gelbs,$0,0,GREEN
+176,National Geographic Society (NGS),US,DC,266115,21st Century Fox,Non-profit, $-   ,*****," $57,992.76 "," $28,921.13 "," $118,213.19 ",,US,Named,Zach Fisher,$0,0,GREEN
+279318,Fox Networks,US,CA,266115,21st Century Fox,Media & Entertainment, $-   ,*," $59,873.94 "," $31,175.58 "," $117,015.93 ",,US,Named,Zach Fisher,$0,0,GREEN
+24266,American Media Incorporated (AMI),US,FL,24266,American Media Incorporated (AMI),Media & Entertainment, $-   ,*," $56,153.85 "," $27,566.62 "," $116,333.05 ",,US,Named,John Collins,$0,0,GREEN
+189,BabyCenter,US,NJ,9508,Johnson & Johnson (J&J),Professional & Technical Services, $-   ,*," $53,413.82 "," $26,222.82 "," $110,054.18 ",,US,Named,Grant Hamlen,$0,0,GREEN
+16974,Dow Jones,US,NY,2740,News Corporation,Media & Entertainment, $-   ,*," $55,954.67 "," $29,027.52 "," $109,841.54 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+267727,Fox Television Stations,TR,?stanbul,266115,21st Century Fox,Media & Entertainment, $-   ,****," $52,505.99 "," $25,577.42 "," $109,597.26 ",,US,Named,Zach Fisher,$0,0,GREEN
+635628,Extreme Ventures,US,CA,28116,TEN: The Enthusiast Network (TEN),Media & Entertainment," $58,176.00 ",*****," $59,524.87 "," $34,016.91 "," $104,159.54 ",,US,Non-Named,Zach Fisher,$0,0,GREEN
+8710,Marvel Entertainment,US,NY,21401,Disney,Media & Entertainment, $-   ,*," $48,772.27 "," $23,246.22 "," $103,997.30 ",,US,Named,Zach Fisher,$0,0,GREEN
+11674,Procter & Gamble (P&G),US,KS,11674,Procter & Gamble (P&G),Manufacturing - Consumer Goods, $-   ,*****," $52,454.70 "," $27,827.20 "," $100,058.31 ",,US,Named,Bill Partridge,$0,1,DR1955393
+7894,Thirty Mile Zone (TMZ),US,CA,24749,Time Warner,Media & Entertainment, $-   ,*," $45,221.99 "," $20,845.99 "," $99,920.95 ",,US,Named,John Collins,$0,0,GREEN
+1959,Lowe's Home Centers,US,NC,11773,Lowe's Companies,Retail, $-   ,*," $46,901.70 "," $22,481.64 "," $98,957.95 ",,US,Named,Michael DeCosta,$0,0,GREEN
+22485,AbbVie,US,3,22485,AbbVie,Pharmaceuticals & Biotech, $469.00 ,*****," $50,361.21 "," $26,126.74 "," $98,431.73 ",,US,Named,Bill Partridge,$0,0,GREEN
+12949,Discover Financial Services (DFS),US,IL,12949,Discover Financial Services (DFS),Financial Services, $-   ,***," $48,100.05 "," $24,447.16 "," $96,095.95 ",,US,Named,Bill Partridge,"$50,000",3,DR1959473
+20116,Travelocity,US,CA,8797,Expedia,"Travel, Leisure & Hospitality", $-   ,*," $48,354.55 "," $24,681.82 "," $96,040.47 ",,US,Named,PH USER AMERICAS 91700521,$0,0,GREEN
+14706,FX Networks,US,CA,266115,21st Century Fox,Media & Entertainment," $7,879.00 ",*****," $50,978.89 "," $27,217.26 "," $95,911.57 ",,US,Named,Zach Fisher,$0,0,GREEN
+20935,CMG Corporate Services,US,GA,9135,Cox Enterprises,Media & Entertainment, $-   ,*," $45,026.43 "," $21,460.42 "," $95,762.08 ",,US,Named,Grant Hamlen,$0,0,GREEN
+11010,L Brands,US,OH,11010,L Brands,Retail," $106,875.00 ",*****," $53,342.95 "," $29,817.01 "," $95,463.00 ",,US,Named,Bill Partridge,"$34,913",7,DR2160448
+2435,Black Entertainment Television (BET),US,DC,1947,National Amusements,Media & Entertainment, $-   ,*," $44,677.44 "," $21,301.25 "," $95,261.73 ",,US,Named,John Collins,$0,0,GREEN
+9061,Victoria's Secret,US,OH,11010,L Brands,Retail, $-   ,*," $44,467.96 "," $21,058.46 "," $95,093.99 ",,US,Named,Bill Partridge,$0,0,GREEN
+26917,247Sports,US,TN,1947,National Amusements,Media & Entertainment, $-   ,*," $42,474.17 "," $19,302.69 "," $94,820.47 ",,US,Named,John Collins,$0,0,GREEN
+21401,Disney,US,FL,21401,Disney,Media & Entertainment, $-   ,****," $49,879.64 "," $26,727.53 "," $93,502.22 ",,US,Named,Zach Fisher,$0,7,DR2009763
+10804,Sam's Club,US,AR,26416,Walmart,Retail, $-   ,*," $42,842.69 "," $20,023.59 "," $93,251.14 ",,US,Named,PH USER AMERICAS 91700561,$0,0,GREEN
+265560,DFS Corporate Services,US,IL,12949,Discover Financial Services (DFS),Financial Services, $-   ,****," $45,066.21 "," $21,911.28 "," $93,172.48 ",,US,Named,Bill Partridge,$0,0,GREEN
+17456,Cartoon Network,US,GA,24749,Time Warner,Media & Entertainment, $-   ,*," $42,115.09 "," $20,942.11 "," $85,840.62 ",,US,Named,John Collins,$0,0,GREEN
+26666,Hulu,JP,0,26666,Hulu,Media & Entertainment," $11,250.00 ",*****," $49,530.64 "," $28,587.13 "," $85,818.77 ",,US,Named,Zach Fisher,"$5,000",1,DR1907438
+9114,Activision,US,CA,13092,Activision Blizzard,Technology Software & Services, $-   ,*****," $44,750.92 "," $23,823.07 "," $84,386.97 ",,US,Named,Zach Fisher,$0,0,GREEN
+13335,Nationwide,US,OH,13335,Nationwide,Insurance," $29,700.00 ",*****," $48,701.79 "," $28,481.97 "," $83,279.00 ",,US,Named,Bill Partridge,"$9,900",2,DR2024080
+738,Discover Products Incorporated,US,IL,12949,Discover Financial Services (DFS),Financial Services," $150,000.00 ",*****," $33,163.00 "," $13,689.10 "," $81,183.48 ",,US,Named,Bill Partridge,$0,0,GREEN
+22108,Martha Stewart,US,NY,3271,Meredith Corporation,Media & Entertainment, $-   ,*," $37,622.20 "," $17,730.26 "," $80,603.57 ",,US,Named,Keith Trudeau,$0,0,GREEN
+11579,New York Post,US,NY,2740,News Corporation,Media & Entertainment, $-   ,*," $39,924.64 "," $20,084.40 "," $80,063.39 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+268560,MapMyFitness,US,TX,1922,Under Armour,Technology Software & Services, $-   ,*," $36,387.63 "," $17,038.27 "," $78,178.38 ",,US,Named,Steven Colon,$0,0,GREEN
+20542,DB Servicing,US,IL,12949,Discover Financial Services (DFS),Financial Services, $-   ,*," $31,842.54 "," $13,309.15 "," $77,314.77 ",,US,Named,Bill Partridge,$0,0,GREEN
+12704,PC Magazine,US,NY,18729,J2 Global,Media & Entertainment, $-   ,*," $39,609.78 "," $20,565.70 "," $76,880.02 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+23300,Hughes Network Systems,US,MD,23300,Hughes Network Systems,Professional & Technical Services, $-   ,*," $33,629.78 "," $14,992.40 "," $76,362.45 ",,US,Named,Keith Trudeau,$0,0,GREEN
+14637,International Data Group (IDG),DE,MŸnchen,14637,International Data Group (IDG),Media & Entertainment," $5,149.00 ",*****," $42,903.75 "," $24,190.19 "," $76,187.96 ",,US,Named,Zach Fisher,$0,0,GREEN
+16014,Miami Herald Publishing,US,FL,17230,McClatchy,Media & Entertainment, $-   ,*," $35,788.48 "," $16,992.33 "," $76,044.27 ",,US,Named,Zach Fisher,$0,0,GREEN
+14913,Mylowes.com,US,NC,11773,Lowe's Companies,Retail, $-   ,*," $31,727.37 "," $13,619.50 "," $74,505.48 ",,US,Named,Michael DeCosta,$0,0,GREEN
+4665,Fleishman-Hillard,CA,ON,8339,Omnicom,Advertising, $-   ,*," $34,783.30 "," $16,530.65 "," $74,443.13 ",,US,Named,Leslie Richmond,$0,0,GREEN
+15903,Bright House Networks,US,FL,24485,Charter Communications,Telecommunications, $-   ,****," $38,534.44 "," $20,225.36 "," $74,127.82 ",,US,Named,Zach Fisher,$0,0,GREEN
+929,Harland Clarke,US,TX,14565,MacAndrews & Forbes,Professional & Technical Services, $-   ,****," $39,367.21 "," $21,092.65 "," $74,035.32 ",,US,Named,Zach Fisher,$0,0,GREEN
+4753,Kroger,US,OH,4753,Kroger,Retail," $4,624.00 ",*****," $39,525.59 "," $21,342.82 "," $73,456.26 ",,US,Named,Bill Partridge,$0,1,DR2160134
+13700,Jones Lang LaSalle (JLL),US,IL,13700,Jones Lang LaSalle (JLL),"Real Estate, Rental & Leasing"," $31,146.00 ",*****," $42,114.00 "," $24,183.50 "," $73,340.42 ",,US,Named,Bill Partridge,$0,2,DR1853785
+14228,Sporting News,US,NC,538,Advance Publications,Media & Entertainment, $-   ,*," $34,743.27 "," $16,696.42 "," $72,958.45 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+20467,TD Ameritrade,US,NJ,20467,TD Ameritrade,Financial Services, $-   ,*," $34,910.36 "," $16,927.74 "," $72,851.02 ",,US,Named,PH USER AMERICAS 91700561,"$14,700",2,DR1895838
+21904,TV Guide Magazine,US,PA,1947,National Amusements,Financial Services, $-   ,*," $32,636.50 "," $14,815.65 "," $72,583.29 ",,US,Named,John Collins,$0,0,GREEN
+276703,Plentyoffish Media,#N/A,#N/A,6846,InterActiveCorp (IAC),Professional & Technical Services, $-   ,*," $33,734.54 "," $15,967.73 "," $71,810.23 ",,US,Named,John Collins,$0,0,GREEN
+11707,United Continental,US,WI,11707,United Continental,Transportation & Warehousing, $-   ,*," $35,351.96 "," $17,820.43 "," $71,014.12 ",,US,Named,Bill Bowman,$0,0,GREEN
+2486,Golf Channel,US,FL,5877,Comcast,Media & Entertainment, $-   ,*," $34,786.09 "," $17,364.98 "," $70,608.34 ",,US,Named,John Collins,$0,0,GREEN
+12939,McClatchy Interactive,US,NC,17230,McClatchy,Media & Entertainment, $-   ,*," $34,348.49 "," $17,038.66 "," $70,392.57 ",,US,Named,Zach Fisher,$0,0,GREEN
+4082,AT&T Mobility,US,WA,23454,AT&T,Telecommunications, $-   ,*," $32,615.41 "," $15,285.04 "," $70,261.67 ",,US,Named,PH USER AMERICAS 91700561,$0,0,GREEN
+12389,CitiMortgage,US,MO,18118,Citigroup,Financial Services, $-   ,*," $34,299.33 "," $16,907.37 "," $70,226.56 ",,US,Named,Sanjeev Mohanti,$0,0,GREEN
+11738,San Francisco 49ers,US,CA,13454,National Football League (NFL),Media & Entertainment, $-   ,*," $35,019.94 "," $17,868.96 "," $69,341.70 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+3971,Charming Shoppes,US,PA,11666,Ascena Retail,Retail, $-   ,*," $28,666.78 "," $12,032.88 "," $69,070.16 ",,US,Named,Steven Colon,$0,0,GREEN
+23774,MSG Holdings,US,NY,16179,Madison Square Garden (MSG),Media & Entertainment, $-   ,*," $32,977.59 "," $16,135.72 "," $68,249.65 ",,US,Named,John Collins,$0,0,GREEN
+10620,Fox Sports,US,CA,266115,21st Century Fox,Media & Entertainment, $-   ,****," $33,732.14 "," $16,939.14 "," $68,182.71 ",,US,Named,Zach Fisher,$0,0,GREEN
+25851,Universal City Development Partners,US,FL,5877,Comcast,"Travel, Leisure & Hospitality", $-   ,*," $32,566.37 "," $15,828.76 "," $67,927.66 ",,US,Named,John Collins,$0,0,GREEN
+7673,National Broadcasting Company (NBC),US,NY,5877,Comcast,Media & Entertainment, $-   ,*," $31,496.01 "," $14,781.21 "," $67,550.91 ",,US,Named,John Collins,$0,0,GREEN
+19607,AskMen,#N/A,#N/A,18729,J2 Global,Advertising, $-   ,*," $33,682.79 "," $17,029.65 "," $67,160.95 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+22850,Medco Health Solutions,US,OH,13186,Express Scripts,Health Care, $-   ,*," $29,919.59 "," $13,531.96 "," $67,154.52 ",,US,Named,Bill Bowman,$0,0,GREEN
+13354,ATAG Ernst & Young,US,GA,13354,ATAG Ernst & Young,Professional & Technical Services, $-   ,*," $32,784.52 "," $16,286.33 "," $66,440.66 ",,US,Non-Named,Julie Straus Gelbs,$0,0,GREEN
+32442,Lions Gate Entertainment,US,CA,3187,Lionsgate,Media & Entertainment, $-   ,****," $33,422.59 "," $17,068.50 "," $66,142.30 ",,US,Named,Zach Fisher,$0,0,GREEN
+13257,BMO Financial Corporation (BFC),CA,ON,19173,Bank of Montreal (BMO),Financial Services, $-   ,*," $29,467.58 "," $13,362.43 "," $65,981.49 ",,CA,Named,Michael DeCosta,$0,0,GREEN
+18020,Macy's Systems and Technology,US,NY,23124,Macy's,Technology Software & Services, $-   ,****," $36,333.78 "," $20,056.76 "," $65,886.69 ",,US,Named,Bill Partridge,$0,0,GREEN
+5007,OnStar,US,MI,15393,Ford,Manufacturing - Automotive, $-   ,*," $30,552.98 "," $14,283.65 "," $65,855.98 ",,US,Named,Bill Bowman,$0,0,GREEN
+19045,Redbeacon,US,CA,24429,Home Depot,Professional & Technical Services, $-   ,*," $30,863.23 "," $14,660.26 "," $65,595.63 ",,US,Named,Grant Hamlen,$0,0,GREEN
+7436,Wachovia Services,US,GA,20828,Wells Fargo,Financial Services, $-   ,*," $29,320.24 "," $13,356.43 "," $64,848.76 ",,US,Named,Jenny Dedo,$0,0,GREEN
+2707,Audible,GB,London,12890,Amazon,Retail, $-   ,*," $31,319.71 "," $15,352.92 "," $64,704.75 ",,US,Named,PH USER AMERICAS 91700521,$0,0,GREEN
+25181,NC Transactions,US,CT,2740,News Corporation,Media & Entertainment, $-   ,*," $32,360.99 "," $16,504.66 "," $64,261.51 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+274779,The Dallas Morning News,US,TX,267189,TEGNA,Media & Entertainment, $-   ,*," $31,226.49 "," $15,582.01 "," $63,567.69 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+21646,Disney Parks and Resorts,US,CA,21401,Disney,"Travel, Leisure & Hospitality", $-   ,*," $30,257.93 "," $14,776.79 "," $62,983.18 ",,US,Named,Zach Fisher,$0,0,GREEN
+26157,Wells Fargo Financial,US,IA,20828,Wells Fargo,Financial Services, $-   ,*," $28,480.79 "," $13,004.22 "," $62,959.83 ",,US,Named,Jenny Dedo,$0,0,GREEN
+23296,PNC Bank,US,PA,10397,PNC Financial Services,Financial Services, $-   ,*," $31,432.04 "," $15,971.50 "," $62,087.69 ",,US,Named,Michael DeCosta,$0,0,GREEN
+265061,Cherokee Pharma,US,PA,18887,Merck,Pharmaceuticals & Biotech, $-   ,*," $28,842.81 "," $13,666.22 "," $61,622.42 ",,US,Named,Michael DeCosta,$0,0,GREEN
+9133,Amazon Web Services,US,OR,12890,Amazon,Media & Entertainment, $-   ,*," $30,322.95 "," $15,135.32 "," $61,416.93 ",,US,Named,PH USER AMERICAS 91700521,$0,0,GREEN
+9279,Lucasfilm,US,CA,21401,Disney,Media & Entertainment, $-   ,*," $30,092.42 "," $14,891.76 "," $61,294.09 ",,US,Named,Zach Fisher,$0,0,GREEN
+2197,Delta Cargo,US,GA,5233,Delta Air Lines,Transportation & Warehousing, $-   ,*," $28,906.16 "," $13,771.54 "," $60,961.02 ",,US,Named,Grant Hamlen,$0,0,GREEN
+32790,Verizon Foundation,US,NJ,13565,Verizon,Non-profit, $-   ,*," $27,452.60 "," $12,576.13 "," $60,350.17 ",,US,Named,Zach Fisher,$0,0,GREEN
+4873,NFL Enteprises,US,NJ,13454,National Football League (NFL),Media & Entertainment, $-   ,*," $28,851.47 "," $14,000.88 "," $59,862.01 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+589,Schering-Plough,AU,NSW,18887,Merck,Pharmaceuticals & Biotech, $-   ,*," $28,395.83 "," $13,684.13 "," $59,698.21 ",,US,Named,Michael DeCosta,$0,0,GREEN
+9261,Disney Internet Group (DIG),US,CA,21401,Disney,Media & Entertainment, $-   ,*," $28,143.08 "," $13,434.53 "," $59,668.13 ",,US,Named,Zach Fisher,$0,0,GREEN
+1481,Playdom,IN,KA,24749,Disney,Technology Software & Services, $-   ,*," $27,903.51 "," $13,142.30 "," $59,623.80 ",,US,Named,John Collins,$0,0,GREEN
+6430,Fox Entertainment,US,CA,266115,21st Century Fox,Media & Entertainment," $7,150.00 ",*****," $35,265.46 "," $20,905.33 "," $59,613.39 ",,US,Named,Zach Fisher,$0,0,GREEN
+15525,Ovations Incorporated,US,MN,6907,UnitedHealth,Insurance, $-   ,*," $27,230.84 "," $12,691.40 "," $59,378.84 ",,US,Named,Bill Bowman,$0,0,GREEN
+25991,Franklin Resources,#N/A,#N/A,25991,Franklin Resources,TBD, $-   ,*," $25,393.86 "," $11,001.33 "," $59,310.39 ",,US,Named,Bill Martin,$0,1,DR2020911
+11064,Macy's Retail,US,CA,23124,Macy's,Retail, $-   ,*," $28,039.14 "," $13,469.03 "," $59,175.37 ",,US,Named,Bill Partridge,$0,0,GREEN
+24735,CyberSource,US,CA,10565,Visa,Technology Software & Services, $-   ,*," $25,979.03 "," $11,551.25 "," $59,035.50 ",,US,Named,Jenny Dedo,$0,0,GREEN
+9591,Zappos.com,US,NV,12890,Amazon,Retail, $-   ,*," $28,474.88 "," $13,828.14 "," $58,978.07 ",,US,Named,PH USER AMERICAS 91700521,$0,0,GREEN
+19081,Chrysler,US,MI,19767,Fiat Chrysler Automobiles (FCA),Manufacturing - Automotive, $-   ,*," $25,126.89 "," $10,937.15 "," $58,537.25 ",,US,Named,Bill Bowman,$0,0,GREEN
+1905,American Family Mutual Insurance Company (Amfic),US,WI,1905,American Family Mutual Insurance Company (Amfic),Insurance, $-   ,*****," $31,902.85 "," $17,570.49 "," $58,079.42 ",,US,Named,Bill Partridge,$0,0,GREEN
+9267,Northwest Airlines,US,MN,5233,Delta Air Lines,"Travel, Leisure & Hospitality", $-   ,*," $26,085.96 "," $11,963.08 "," $57,864.41 ",,US,Named,Grant Hamlen,$0,0,GREEN
+4684,KeyCorp,US,NY,4684,KeyCorp,Financial Services, $-   ,*," $26,643.91 "," $12,505.54 "," $57,734.41 ",,US,Named,Leslie Pierson,"$4,850",0,GREEN
+5356,AAA Southern New England,US,RI,15503,American Automobile Association (AAA),Membership Organizations, $-   ,*," $26,498.51 "," $12,477.08 "," $57,465.30 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+22353,ING North America Insurance,US,CT,16731,Voya Financial,Insurance, $-   ,*," $26,337.03 "," $12,226.77 "," $57,170.16 ",,US,Named,Michael DeCosta,$0,0,GREEN
+10065,Media General,US,VA,24978,Nexstar,Media & Entertainment, $-   ,****," $31,143.63 "," $17,152.95 "," $56,772.51 ",,US,Named,Zach Fisher,$0,0,GREEN
+9438,Progressive,US,SC,9438,Progressive,Insurance, $-   ,*****," $28,210.82 "," $14,238.78 "," $56,420.91 ",,US,Named,Bill Partridge,$0,2,DR2027425
+282362,KCEN-TV,US,TX,267189,TEGNA,Media & Entertainment, $-   ,*," $28,786.63 "," $14,833.39 "," $56,306.02 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+16812,Target Brands,US,MN,4108,Target,Retail, $-   ,*," $26,748.64 "," $12,854.84 "," $56,074.04 ",,US,Named,Bill Bowman,$0,0,GREEN
+267467,MGOC,#N/A,#N/A,24978,Nexstar,Media & Entertainment, $-   ,*," $30,049.79 "," $16,205.73 "," $56,045.93 ",,US,Named,Zach Fisher,$0,0,GREEN
+6387,Boost Mobile,US,VA,13039,Sprint Corporation,Telecommunications, $-   ,*," $26,962.17 "," $13,099.41 "," $55,759.21 ",,US,Named,PH USER AMERICAS 91700566,$0,0,GREEN
+21659,Student Loan Corporation,US,CT,12949,Discover Financial Services (DFS),Financial Services, $-   ,*," $26,434.35 "," $12,941.86 "," $55,113.16 ",,US,Named,Bill Partridge,$0,0,GREEN
+267108,National Cable Communications (NNC Media),US,GA,5877,Comcast,Advertising, $-   ,*," $26,680.68 "," $13,029.00 "," $54,927.24 ",,US,Named,John Collins,$0,0,GREEN
+267111,Cox Media,US,VA,9135,Cox Enterprises,Media & Entertainment, $-   ,*," $26,812.99 "," $13,383.74 "," $54,444.13 ",,US,Named,Grant Hamlen,$0,0,GREEN
+265045,Mayo Foundation,US,MN,16190,Mayo Clinic,Non-profit, $-   ,*," $26,389.84 "," $12,946.52 "," $54,232.68 ",,US,Named,Tim Rinaker,$0,0,GREEN
+11487,HSN,US,OH,17196,Home Shopping Network (HSN),Retail, $-   ,*," $25,509.62 "," $12,136.13 "," $54,101.94 ",,US,Non-Named,John Collins,$0,0,GREEN
+267461,Lin Television,US,RI,24978,Nexstar,Media & Entertainment, $-   ,*," $29,373.33 "," $16,193.63 "," $53,549.55 ",,US,Named,Zach Fisher,$0,0,GREEN
+138,West Publishing,US,MN,8794,Thomson Reuters,Professional & Technical Services, $-   ,*," $24,641.39 "," $11,539.44 "," $53,526.68 ",,CA,Named,John Collins,$0,0,GREEN
+4992,MSNBC Interactive News,US,WA,5877,Comcast,Media & Entertainment, $-   ,*," $26,579.46 "," $13,553.23 "," $53,018.52 ",,US,Named,John Collins,$0,0,GREEN
+267347,TV Guide,US,OK,3187,Lionsgate,Media & Entertainment, $-   ,*," $24,619.62 "," $11,578.48 "," $52,797.45 ",,US,Named,Zach Fisher,$0,0,GREEN
+2126,Verizon Data Services,US,CA,2126,Verizon Data Services,Telecommunications, $-   ,****," $27,835.68 "," $14,864.96 "," $52,424.90 ",,US,Named,Zach Fisher,$0,0,GREEN
+5546,NextEra Energy,US,MN,5546,NextEra Energy,"Energy, Mining, Oil & Gas", $-   ,*," $28,081.26 "," $15,232.04 "," $52,006.16 ",,US,Named,PH USER AMERICAS 91700566,$0,0,GREEN
+6570,Verizon Communications,US,NY,13565,Verizon,Telecommunications, $-   ,****," $27,160.79 "," $14,270.85 "," $51,972.82 ",,US,Named,Zach Fisher,$0,0,GREEN
+6470,The Plain Dealer,US,OH,538,Advance Publications,Media & Entertainment, $-   ,*," $26,230.96 "," $13,422.90 "," $51,676.30 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+24905,HarperCollins,CA,BC,2740,News Corporation,Media & Entertainment, $-   ,*," $26,341.12 "," $13,583.16 "," $51,576.33 ",,US,Named,PH USER AMERICAS 91700552,$0,0,GREEN
+24818,Major League Gaming (MLG),US,NY,13092,Activision Blizzard,Media & Entertainment, $-   ,*," $24,606.39 "," $11,887.05 "," $51,565.84 ",,US,Named,Zach Fisher,$0,0,GREEN
+20284,AMC Networks,US,NY,20284,AMC Networks,Media & Entertainment, $-   ,****," $26,978.16 "," $14,223.13 "," $51,507.02 ",,US,Named,Zach Fisher,$0,1,DR2006070
+267179,Investopedia,US,NY,6846,InterActiveCorp (IAC),Media & Entertainment, $-   ,*," $25,953.17 "," $13,309.54 "," $50,980.92 ",,US,Named,John Collins,$0,0,GREEN
+1651,Newsweek,MX,DIF,34887,IBT Media,Media & Entertainment, $-   ,*," $24,855.35 "," $12,219.73 "," $50,886.87 ",,US,Named,John Collins,$0,0,GREEN
+14971,Source Interlink,US,FL,14971,Source Interlink,Media & Entertainment, $-   ,*," $26,760.27 "," $14,200.28 "," $50,833.82 ",,US,Named,Zach Fisher,$0,1,DR1690970
+15241,Northwestern Mutual Life Insurance,US,WI,15241,Northwestern Mutual Life Insurance,Insurance, $910.00 ,*****," $27,667.80 "," $15,237.51 "," $50,412.28 ",,US,Named,Bill Partridge,$0,0,GREEN
+5815,UnitedHealthCare (UHC),US,IL,6907,UnitedHealth,Health Care, $-   ,*," $22,415.61 "," $10,121.67 "," $50,376.03 ",,US,Named,Bill Bowman,$0,0,GREEN
